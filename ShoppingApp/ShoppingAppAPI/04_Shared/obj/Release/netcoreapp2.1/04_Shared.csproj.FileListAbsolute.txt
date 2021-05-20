@@ -1,0 +1,36 @@
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.deps.json
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.dll
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.pdb
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csprojAssemblyReference.cache
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csproj.CoreCompileInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfoInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfo.cs
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.dll
+D:\angular\server deployment\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.deps.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfo.cs
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.deps.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfo.cs
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.deps.json
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\bin\Release\netcoreapp2.1\04_Shared.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csprojAssemblyReference.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.csproj.CoreCompileInputs.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfoInputs.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.AssemblyInfo.cs
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\04_Shared\obj\Release\netcoreapp2.1\04_Shared.pdb

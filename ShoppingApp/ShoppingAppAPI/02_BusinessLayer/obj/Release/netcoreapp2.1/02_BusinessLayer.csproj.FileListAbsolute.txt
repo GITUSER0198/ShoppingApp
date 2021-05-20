@@ -1,0 +1,58 @@
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.deps.json
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.dll
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.pdb
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.dll
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.dll
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.pdb
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csprojAssemblyReference.cache
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfoInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfo.cs
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CopyComplete
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.dll
+D:\angular\server deployment\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.deps.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\System.IdentityModel.Tokens.Jwt.xml
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfo.cs
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CopyComplete
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfo.cs
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CopyComplete
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.deps.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.deps.json
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\02_BusinessLayer.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\bin\Release\netcoreapp2.1\04_Shared.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csprojAssemblyReference.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfoInputs.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.AssemblyInfo.cs
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.csproj.CopyComplete
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\02_BusinessLayer\obj\Release\netcoreapp2.1\02_BusinessLayer.pdb

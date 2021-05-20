@@ -1,0 +1,126 @@
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.deps.json
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.json
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.dev.json
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.pdb
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.pdb
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.pdb
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csprojAssemblyReference.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CoreCompileInputs.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cs
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfoInputs.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfo.cs
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CopyComplete
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.deps.json
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.json
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.dev.json
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.dll
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.dll
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.pdb
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\repos\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csprojAssemblyReference.cache
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CoreCompileInputs.cache
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cache
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cs
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfoInputs.cache
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfo.cs
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorTargetAssemblyInfo.cache
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CopyComplete
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.dll
+D:\repos\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.pdb
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.dll
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.dll
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.pdb
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cache
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cs
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfo.cs
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorTargetAssemblyInfo.cache
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.dll
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.pdb
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.deps.json
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.json
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.dev.json
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.pdb
+C:\Z\Nagarro\Project\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CopyComplete
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.deps.json
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.json
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.dev.json
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.dll
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.dll
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.pdb
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\angular\01_DataAccess\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csprojAssemblyReference.cache
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CoreCompileInputs.cache
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cache
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cs
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfoInputs.cache
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfo.cs
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorTargetAssemblyInfo.cache
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CopyComplete
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.dll
+D:\angular\01_DataAccess\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.deps.json
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.json
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.dev.json
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.dll
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.dll
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.pdb
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\angular\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csprojAssemblyReference.cache
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CoreCompileInputs.cache
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cache
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cs
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfoInputs.cache
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfo.cs
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorTargetAssemblyInfo.cache
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CopyComplete
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.dll
+D:\angular\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.deps.json
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.json
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.runtimeconfig.dev.json
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.dll
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\03_Presentation.pdb
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.dll
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\02_BusinessLayer.pdb
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csprojAssemblyReference.cache
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CoreCompileInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cache
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorAssemblyInfo.cs
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfoInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.AssemblyInfo.cs
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.RazorTargetAssemblyInfo.cache
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.csproj.CopyComplete
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.dll
+D:\angular\server deployment\ShoppingAppAPI\WebApplication1\obj\Debug\netcoreapp2.1\03_Presentation.pdb

@@ -1,0 +1,56 @@
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.deps.json
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.dll
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.dll
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.pdb
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.dll
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.deps.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.deps.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.deps.json
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\01_DataAccess.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.dll
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\bin\Release\netcoreapp2.1\04_Shared.pdb
+D:\testing\ShoppingApp\ShoppingApp\ShoppingAppAPI\01_DataAccess\obj\Release\netcoreapp2.1\01_DataAccess.csproj.CopyComplete

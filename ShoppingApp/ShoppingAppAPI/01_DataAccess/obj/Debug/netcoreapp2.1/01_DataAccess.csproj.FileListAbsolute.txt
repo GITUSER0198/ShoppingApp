@@ -1,0 +1,84 @@
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.deps.json
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.pdb
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.dll
+C:\Users\dhruvgoel\source\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.deps.json
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\repos\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\repos\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.deps.json
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.dll
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.pdb
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.dll
+C:\Z\Nagarro\Project\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.deps.json
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\angular\01_DataAccess\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\01_DataAccess\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.deps.json
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\angular\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.deps.json
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.json
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.runtimeconfig.dev.json
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\01_DataAccess.pdb
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.dll
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\bin\Debug\netcoreapp2.1\04_Shared.pdb
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csprojAssemblyReference.cache
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CoreCompileInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfoInputs.cache
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.AssemblyInfo.cs
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.csproj.CopyComplete
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.dll
+D:\angular\server deployment\ShoppingAppAPI\01_DataAccess\obj\Debug\netcoreapp2.1\01_DataAccess.pdb
